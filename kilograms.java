@@ -1,7 +1,7 @@
 //Program that converts pounds to kilograms and vice versa..
 import java.util.Scanner;
 
-public class kilgrams {
+public class kilograms {
 public static void main(String args[]){
     Scanner gee = new Scanner(System.in);
     double kilo_value = 0.454;
